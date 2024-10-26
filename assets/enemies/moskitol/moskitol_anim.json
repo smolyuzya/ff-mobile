@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "hit",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "moskitol",
+                    "frame": "moskitol-base"
+                },
+                {
+                    "key": "moskitol",
+                    "frame": "moskitol-damaged"
+                },
+                {
+                    "key": "moskitol",
+                    "frame": "moskitol-damaged"
+                },
+                {
+                    "key": "moskitol",
+                    "frame": "moskitol-base"
+                }
+            ]
+        }
+    ]
+}
