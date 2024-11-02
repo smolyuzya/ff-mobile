@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "hit-supirgigi",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "supirgigi",
+                    "frame": "supirgigi-base"
+                },
+                {
+                    "key": "supirgigi",
+                    "frame": "supirgigi-damaged"
+                },
+                {
+                    "key": "supirgigi",
+                    "frame": "supirgigi-damaged"
+                },
+                {
+                    "key": "supirgigi",
+                    "frame": "supirgigi-base"
+                }
+            ]
+        }
+    ]
+}
