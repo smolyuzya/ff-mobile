@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "hit-lordgekkon-revived",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "lordgekkon-revived",
+                    "frame": "lordgekkon-revived-base"
+                },
+                {
+                    "key": "lordgekkon-revived",
+                    "frame": "lordgekkon-revived-damaged"
+                },
+                {
+                    "key": "lordgekkon-revived",
+                    "frame": "lordgekkon-revived-damaged"
+                },
+                {
+                    "key": "lordgekkon-revived",
+                    "frame": "lordgekkon-revived-base"
+                }
+            ]
+        }
+    ]
+}
